@@ -1,1 +1,2 @@
-﻿DevOps class - Tanvi
+﻿DevOps Class - Tanvi
+Learning Git and GitHub
